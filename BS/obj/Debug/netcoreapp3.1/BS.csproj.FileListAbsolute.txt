@@ -1,0 +1,16 @@
+D:\WebAvanzada\Proyecto\BS\bin\Debug\netcoreapp3.1\BS.deps.json
+D:\WebAvanzada\Proyecto\BS\bin\Debug\netcoreapp3.1\BS.dll
+D:\WebAvanzada\Proyecto\BS\bin\Debug\netcoreapp3.1\BS.pdb
+D:\WebAvanzada\Proyecto\BS\bin\Debug\netcoreapp3.1\API.DO.dll
+D:\WebAvanzada\Proyecto\BS\bin\Debug\netcoreapp3.1\DAL.EF.dll
+D:\WebAvanzada\Proyecto\BS\bin\Debug\netcoreapp3.1\Repository.dll
+D:\WebAvanzada\Proyecto\BS\bin\Debug\netcoreapp3.1\API.DO.pdb
+D:\WebAvanzada\Proyecto\BS\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\WebAvanzada\Proyecto\BS\bin\Debug\netcoreapp3.1\DAL.EF.pdb
+D:\WebAvanzada\Proyecto\BS\obj\Debug\netcoreapp3.1\BS.csprojAssemblyReference.cache
+D:\WebAvanzada\Proyecto\BS\obj\Debug\netcoreapp3.1\BS.AssemblyInfoInputs.cache
+D:\WebAvanzada\Proyecto\BS\obj\Debug\netcoreapp3.1\BS.AssemblyInfo.cs
+D:\WebAvanzada\Proyecto\BS\obj\Debug\netcoreapp3.1\BS.csproj.CoreCompileInputs.cache
+D:\WebAvanzada\Proyecto\BS\obj\Debug\netcoreapp3.1\BS.csproj.CopyComplete
+D:\WebAvanzada\Proyecto\BS\obj\Debug\netcoreapp3.1\BS.dll
+D:\WebAvanzada\Proyecto\BS\obj\Debug\netcoreapp3.1\BS.pdb

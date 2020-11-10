@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PDWCEu0GtgJW88RyDInYh7OLxW2/qXtibXX1PWmkiJFQdyIxSjckZ4tfjZXRV/mlxVuTlEJwIhyniF+rUeSwdg==",
+  "success": true,
+  "projectFilePath": "D:\\WebAvanzada\\Proyecto\\API.DO\\API.DO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcorellac\\.nuget\\packages\\mongodb.bson\\2.11.3\\mongodb.bson.2.11.3.nupkg.sha512"
+  ],
+  "logs": []
+}
